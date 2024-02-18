@@ -1,7 +1,7 @@
 package com.example.consumirapis.data.remote.dto
 
 data class PokemonDTO(
-
+//
     val base_experience: Int,
     val height: Int,
     val id: Int,
